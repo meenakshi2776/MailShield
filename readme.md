@@ -57,11 +57,11 @@ The system combines Machine Learning with a Threat Intelligence Engine to provid
 
 ### Threat Analysis
 
-![Threat Analysis](screenshots/threat_analysis.png)
+![Threat Analysis](screenshots/threatintelligence.png)
 
 ### Threat Breakdown
 
-![Threat Breakdown](screenshots/pie_chart.png)
+![Threat Breakdown](screenshots/piechart.png)
 
 ### Executive Summary
 
