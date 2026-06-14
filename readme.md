@@ -5,6 +5,9 @@
 MailShield Pro is an AI-powered cybersecurity application that analyzes emails, SMS messages, and text content to identify spam, phishing attempts, and suspicious communications.
 
 The system combines Machine Learning with a Threat Intelligence Engine to provide real-time risk assessment and security recommendations.
+## 🌐 Live Demo
+
+👉 [Launch MailShield Pro](https://mailshield-ejaf2metpe3enk48ikzfrk.streamlit.app/)
 
 ---
 
