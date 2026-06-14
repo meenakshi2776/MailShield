@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run MailShield Pro",
+      "type": "shell",
+      "command": "c:/Users/User/Desktop/mail_shield_pro/.venv/Scripts/python.exe -m streamlit run app.py --server.headless true",
+      "options": {
+        "cwd": "c:/Users/User/Desktop/mail_shield_pro"
+      },
+      "problemMatcher": [],
+      "group": "build"
+    }
+  ]
+}
